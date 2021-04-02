@@ -1,0 +1,61 @@
+/* body{
+    background-color: blueviolet;
+}
+*/
+.conteuneur{
+    display: flex;justify-content: space-between;
+}
+.left{
+    
+    width: 50%;
+    height: 50%;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+.right{
+    
+    width: 50%;
+    height: 50%;
+    
+}
+h1{
+    font-style: oblique;
+    color: coral;
+}
+.image{
+    margin-left: 100px;
+    margin-top: 70px;
+    background-color: darkslategrey;
+    padding-left: 40px;
+    padding-right: 0px;
+    
+}
+.image2{
+    width: 30px;
+    height:30px;
+    margin-top: 70px; 
+margin-left: 0px;
+    
+
+}
+.image3{
+    width: 30px;
+    height:30px;
+    margin-top: 70px;
+    
+}
+.image4{
+    width: 30px;
+    height: 30px;
+    margin-top: 70px;
+}
+hr{
+    border-top: darkslategrey;
+}
+
+h1{
+font-family: 'Times New Roman', Times, serif;
+}
+p{
+    margin-left: 30px;
+}
